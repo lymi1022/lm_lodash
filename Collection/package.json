@@ -1,0 +1,14 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countBy-each-each-Right-every-filter-find-findLast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
